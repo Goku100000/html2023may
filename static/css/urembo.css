@@ -1,0 +1,57 @@
+ul{
+    list-style: none;
+    margin:o;
+    overflow-block: visible;
+    background:greenyellow ;
+}
+li{
+    float:right;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+}
+li,a{
+    padding: 20px;
+}
+li,a:hover {
+    background-color: greenyellow;
+}
+h2{
+    text-align: center;
+}
+.fruits{
+    background-color: purple;
+    border: 2px solid olivedrab;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    text-decoration: white;
+}
+.cars{
+    font-family: "DejaVu Sans Mono";
+    color: brown;
+    background-color: orange;
+    border: dot-dot-dash;
+    text-decoration: white;
+    padding: 15px;
+    text-align: center;
+}
+.FRUITS{
+    font: bolder;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+#matunda{
+    background-color: hotpink;
+    border: 5px dotted chartreuse;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+#magari{
+    background-color: darkcyan;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border: mediumvioletred 5px solid;
+}
